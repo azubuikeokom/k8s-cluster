@@ -1,0 +1,14 @@
+terraform/.terraform
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/*.lock.hcl
+terraform/*.tfvars
+dynamodb-backend/.terraform
+dynamodb-backend/*.tfstate
+dynamodb-backend/*.tfstate.backup
+dynamodb-backend/*.lock.hcl
+s3-backend/.terraform
+s3-backend/*.tfstate
+s3-backend/*.tfstate.backup
+s3-backend/*.lock.hcl
+
